@@ -126,5 +126,5 @@ function reiniciar()
 
     mudarJogador('X');
 
-   
+   /*fim da função reinicio*/
 }
